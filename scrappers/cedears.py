@@ -18,7 +18,7 @@ raw_data = {}
 
 with open(cedears_file, 'r') as file:
     cedears_dict = json.load(file)
-    tickers = cedears_dict['cedears'].keys()
+    tickers = cedears_dict.keys()
 
 for ticker in tickers:
     try:
