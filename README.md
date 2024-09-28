@@ -1,2 +1,1 @@
-# fcis_data
-Project using CAFCI open API to analyze FCIs performance
+Project containing various scrappers for multiple financial instruments information
