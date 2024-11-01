@@ -1,1298 +1,1298 @@
 {
     "MMM": {
-        "Nombre de la Compañía": "3M Company",
-        "Ratio": "10:1"
+        "name": "3M Company",
+        "ratio": "10:1"
     },
     "ABT": {
-        "Nombre de la Compañía": "Abbott Labs",
-        "Ratio": "4:1"
+        "name": "Abbott Labs",
+        "ratio": "4:1"
     },
     "ABBV": {
-        "Nombre de la Compañía": "AbbVie Inc.",
-        "Ratio": "10:1"
+        "name": "AbbVie Inc.",
+        "ratio": "10:1"
     },
     "ANF": {
-        "Nombre de la Compañía": "Abercrombie & Fitch Co",
-        "Ratio": "1:1"
+        "name": "Abercrombie & Fitch Co",
+        "ratio": "1:1"
     },
     "ACN": {
-        "Nombre de la Compañía": "Accenture",
-        "Ratio": "75:1"
+        "name": "Accenture",
+        "ratio": "75:1"
     },
     "ADGO": {
-        "Nombre de la Compañía": "Adecoagro S.A.",
-        "Ratio": "1:1"
+        "name": "Adecoagro S.A.",
+        "ratio": "1:1"
     },
     "ADS": {
-        "Nombre de la Compañía": "Adidas AG",
-        "Ratio": "22:1"
+        "name": "Adidas AG",
+        "ratio": "22:1"
     },
     "ADBE": {
-        "Nombre de la Compañía": "Adobe Systems Incorporated",
-        "Ratio": "44:1"
+        "name": "Adobe Systems Incorporated",
+        "ratio": "44:1"
     },
     "JMIA": {
-        "Nombre de la Compañía": "Adr Jumia Technologies Ag",
-        "Ratio": "1:1"
+        "name": "Adr Jumia Technologies Ag",
+        "ratio": "1:1"
     },
     "AAP": {
-        "Nombre de la Compañía": "Advanced Auto Parts Inc",
-        "Ratio": "14:1"
+        "name": "Advanced Auto Parts Inc",
+        "ratio": "14:1"
     },
     "AMD": {
-        "Nombre de la Compañía": "Advanced Micro Devices, Inc.",
-        "Ratio": "10:1"
+        "name": "Advanced Micro Devices, Inc.",
+        "ratio": "10:1"
     },
     "AEG": {
-        "Nombre de la Compañía": "Aegon N.V.",
-        "Ratio": "1:1"
+        "name": "Aegon N.V.",
+        "ratio": "1:1"
     },
     "AEM": {
-        "Nombre de la Compañía": "Agnico Eagle Mines Limited",
-        "Ratio": "6:1"
+        "name": "Agnico Eagle Mines Limited",
+        "ratio": "6:1"
     },
     "ABNB": {
-        "Nombre de la Compañía": "Airbnb Inc",
-        "Ratio": "15:1"
+        "name": "Airbnb Inc",
+        "ratio": "15:1"
     },
     "BABA": {
-        "Nombre de la Compañía": "Alibaba Group Holding Limited",
-        "Ratio": "9:1"
+        "name": "Alibaba Group Holding Limited",
+        "ratio": "9:1"
     },
     "GOOGL": {
-        "Nombre de la Compañía": "Alphabet Inc.",
-        "Ratio": "58:1"
+        "name": "Alphabet Inc.",
+        "ratio": "58:1"
     },
     "AABA": {
-        "Nombre de la Compañía": "Altaba Inc.",
-        "Ratio": "3:1"
+        "name": "Altaba Inc.",
+        "ratio": "3:1"
     },
     "MO": {
-        "Nombre de la Compañía": "Altria Group Inc.",
-        "Ratio": "4:1"
+        "name": "Altria Group Inc.",
+        "ratio": "4:1"
     },
     "AOCA": {
-        "Nombre de la Compañía": "Aluminum Corp Of China",
-        "Ratio": "1:1"
+        "name": "Aluminum Corp Of China",
+        "ratio": "1:1"
     },
     "AMZN": {
-        "Nombre de la Compañía": "Amazon.Com, Inc.",
-        "Ratio": "144:1"
+        "name": "Amazon.Com, Inc.",
+        "ratio": "144:1"
     },
     "ABEV": {
-        "Nombre de la Compañía": "Ambev S.A.",
-        "Ratio": "1:3"
+        "name": "Ambev S.A.",
+        "ratio": "1:3"
     },
     "AMX": {
-        "Nombre de la Compañía": "America Movil",
-        "Ratio": "1:1"
+        "name": "America Movil",
+        "ratio": "1:1"
     },
     "AAL": {
-        "Nombre de la Compañía": "American Airlines Group Inc",
-        "Ratio": "2:1"
+        "name": "American Airlines Group Inc",
+        "ratio": "2:1"
     },
     "AXP": {
-        "Nombre de la Compañía": "American Express Co",
-        "Ratio": "15:1"
+        "name": "American Express Co",
+        "ratio": "15:1"
     },
     "AIG": {
-        "Nombre de la Compañía": "American International Group (AIG)",
-        "Ratio": "5:1"
+        "name": "American International Group (AIG)",
+        "ratio": "5:1"
     },
     "AMGN": {
-        "Nombre de la Compañía": "Amgen Inc.",
-        "Ratio": "30:1"
+        "name": "Amgen Inc.",
+        "ratio": "30:1"
     },
     "ADI": {
-        "Nombre de la Compañía": "Analog Devices",
-        "Ratio": "15:1"
+        "name": "Analog Devices",
+        "ratio": "15:1"
     },
     "AAPL": {
-        "Nombre de la Compañía": "Apple Inc.",
-        "Ratio": "20:1"
+        "name": "Apple Inc.",
+        "ratio": "20:1"
     },
     "AMAT": {
-        "Nombre de la Compañía": "Applied Materials Inc.",
-        "Ratio": "5:1"
+        "name": "Applied Materials Inc.",
+        "ratio": "5:1"
     },
     "ARCO": {
-        "Nombre de la Compañía": "Arcos Dorados Holdings Inc.",
-        "Ratio": "1:2"
+        "name": "Arcos Dorados Holdings Inc.",
+        "ratio": "1:2"
     },
     "ARKK": {
-        "Nombre de la Compañía": "ARK INNOVATION",
-        "Ratio": "10:1"
+        "name": "ARK INNOVATION",
+        "ratio": "10:1"
     },
     "AZN": {
-        "Nombre de la Compañía": "Astrazeneca Plc",
-        "Ratio": "2:1"
+        "name": "Astrazeneca Plc",
+        "ratio": "2:1"
     },
     "T": {
-        "Nombre de la Compañía": "At &T Inc.",
-        "Ratio": "3:1"
+        "name": "At &T Inc.",
+        "ratio": "3:1"
     },
     "ADP": {
-        "Nombre de la Compañía": "Automatic Data Processing Inc.",
-        "Ratio": "6:1"
+        "name": "Automatic Data Processing Inc.",
+        "ratio": "6:1"
     },
     "AVY": {
-        "Nombre de la Compañía": "Avery Dennison Corp.",
-        "Ratio": "18:1"
+        "name": "Avery Dennison Corp.",
+        "ratio": "18:1"
     },
     "CAR": {
-        "Nombre de la Compañía": "Avis Budget Group Inc.",
-        "Ratio": "26:1"
+        "name": "Avis Budget Group Inc.",
+        "ratio": "26:1"
     },
     "BIDU": {
-        "Nombre de la Compañía": "Baidu, Inc.",
-        "Ratio": "11:1"
+        "name": "Baidu, Inc.",
+        "ratio": "11:1"
     },
     "BBD": {
-        "Nombre de la Compañía": "Banco Bradesco S.A.",
-        "Ratio": "1:1"
+        "name": "Banco Bradesco S.A.",
+        "ratio": "1:1"
     },
     "BBAS3": {
-        "Nombre de la Compañía": "Banco do Brasil S.A.",
-        "Ratio": "2:1"
+        "name": "Banco do Brasil S.A.",
+        "ratio": "2:1"
     },
     "BSBR": {
-        "Nombre de la Compañía": "Banco Santander (Brasil) S.A.",
-        "Ratio": "1:1"
+        "name": "Banco Santander (Brasil) S.A.",
+        "ratio": "1:1"
     },
     "SAN": {
-        "Nombre de la Compañía": "Banco Santander S.A",
-        "Ratio": "1:4"
+        "name": "Banco Santander S.A",
+        "ratio": "1:4"
     },
     "BA.C": {
-        "Nombre de la Compañía": "Bank Of America Corporation",
-        "Ratio": "4:1"
+        "name": "Bank Of America Corporation",
+        "ratio": "4:1"
     },
     "BCS": {
-        "Nombre de la Compañía": "Barclays Bank Plc",
-        "Ratio": "1:1"
+        "name": "Barclays Bank Plc",
+        "ratio": "1:1"
     },
     "GOLD": {
-        "Nombre de la Compañía": "Barrick Gold Corp",
-        "Ratio": "2:1"
+        "name": "Barrick Gold Corp",
+        "ratio": "2:1"
     },
     "BAS": {
-        "Nombre de la Compañía": "Basf SE",
-        "Ratio": "2:1"
+        "name": "Basf SE",
+        "ratio": "2:1"
     },
     "BAYN": {
-        "Nombre de la Compañía": "Bayer AG",
-        "Ratio": "3:1"
+        "name": "Bayer AG",
+        "ratio": "3:1"
     },
     "BRKB": {
-        "Nombre de la Compañía": "Berkshire Hathaway Inc.",
-        "Ratio": "22:1"
+        "name": "Berkshire Hathaway Inc.",
+        "ratio": "22:1"
     },
     "BHP": {
-        "Nombre de la Compañía": "Bhp Group Ltd",
-        "Ratio": "2:1"
+        "name": "Bhp Group Ltd",
+        "ratio": "2:1"
     },
     "BBV": {
-        "Nombre de la Compañía": "Bilbao Vizcaya Argentaria S.A.",
-        "Ratio": "1:1"
+        "name": "Bilbao Vizcaya Argentaria S.A.",
+        "ratio": "1:1"
     },
     "BIOX": {
-        "Nombre de la Compañía": "Bioceres Crop Solutions Corp.",
-        "Ratio": "1:1"
+        "name": "Bioceres Crop Solutions Corp.",
+        "ratio": "1:1"
     },
     "BIIB": {
-        "Nombre de la Compañía": "Biogen Inc.",
-        "Ratio": "13:1"
+        "name": "Biogen Inc.",
+        "ratio": "13:1"
     },
     "BITF": {
-        "Nombre de la Compañía": "Bitfarms Ltd.",
-        "Ratio": "1:5"
+        "name": "Bitfarms Ltd.",
+        "ratio": "1:5"
     },
     "BB": {
-        "Nombre de la Compañía": "Blackberry Limited",
-        "Ratio": "3:1"
+        "name": "Blackberry Limited",
+        "ratio": "3:1"
     },
     "BKNG": {
-        "Nombre de la Compañía": "Booking",
-        "Ratio": "700:1"
+        "name": "Booking",
+        "ratio": "700:1"
     },
     "BP": {
-        "Nombre de la Compañía": "BP PCL",
-        "Ratio": "5:1"
+        "name": "BP PCL",
+        "ratio": "5:1"
     },
     "LND": {
-        "Nombre de la Compañía": "Brasilagro - Co Brasileira de Propriedades Agrícolas",
-        "Ratio": "1:1"
+        "name": "Brasilagro - Co Brasileira de Propriedades Agrícolas",
+        "ratio": "1:1"
     },
     "BAK": {
-        "Nombre de la Compañía": "Braskem SA",
-        "Ratio": "2:1"
+        "name": "Braskem SA",
+        "ratio": "2:1"
     },
     "BRFS": {
-        "Nombre de la Compañía": "BRF S.A.",
-        "Ratio": "1:3"
+        "name": "BRF S.A.",
+        "ratio": "1:3"
     },
     "BMY": {
-        "Nombre de la Compañía": "Bristol-Myers Squibb Company",
-        "Ratio": "3:1"
+        "name": "Bristol-Myers Squibb Company",
+        "ratio": "3:1"
     },
     "AVGO": {
-        "Nombre de la Compañía": "Broadcom Inc.",
-        "Ratio": "39:1"
+        "name": "Broadcom Inc.",
+        "ratio": "39:1"
     },
     "BNG": {
-        "Nombre de la Compañía": "Bunge Limited",
-        "Ratio": "5:1"
+        "name": "Bunge Limited",
+        "ratio": "5:1"
     },
     "CAJ": {
-        "Nombre de la Compañía": "Canon Inc",
-        "Ratio": "2:1"
+        "name": "Canon Inc",
+        "ratio": "2:1"
     },
     "CAH": {
-        "Nombre de la Compañía": "Cardinal Health Inc",
-        "Ratio": "3:1"
+        "name": "Cardinal Health Inc",
+        "ratio": "3:1"
     },
     "CCL": {
-        "Nombre de la Compañía": "Carnival",
-        "Ratio": "3:1"
+        "name": "Carnival",
+        "ratio": "3:1"
     },
     "CAT": {
-        "Nombre de la Compañía": "Caterpillar Inc",
-        "Ratio": "20:1"
+        "name": "Caterpillar Inc",
+        "ratio": "20:1"
     },
     "CX": {
-        "Nombre de la Compañía": "Cemex S.A.B. de CV",
-        "Ratio": "1:1"
+        "name": "Cemex S.A.B. de CV",
+        "ratio": "1:1"
     },
     "EBR": {
-        "Nombre de la Compañía": "Centrais Eléctricas Brasileiras S.A. - Eletrobras",
-        "Ratio": "1:4"
+        "name": "Centrais Eléctricas Brasileiras S.A. - Eletrobras",
+        "ratio": "1:4"
     },
     "SCHW": {
-        "Nombre de la Compañía": "Charles Schwab",
-        "Ratio": "13:1"
+        "name": "Charles Schwab",
+        "ratio": "13:1"
     },
     "CVX": {
-        "Nombre de la Compañía": "Chevron Corp.",
-        "Ratio": "16:1"
+        "name": "Chevron Corp.",
+        "ratio": "16:1"
     },
     "LFC": {
-        "Nombre de la Compañía": "China Life Insurance",
-        "Ratio": "2:1"
+        "name": "China Life Insurance",
+        "ratio": "2:1"
     },
     "SNP": {
-        "Nombre de la Compañía": "China Petroleum & Chem",
-        "Ratio": "3:1"
+        "name": "China Petroleum & Chem",
+        "ratio": "3:1"
     },
     "CSCO": {
-        "Nombre de la Compañía": "Cisco Systems Inc",
-        "Ratio": "5:1"
+        "name": "Cisco Systems Inc",
+        "ratio": "5:1"
     },
     "C": {
-        "Nombre de la Compañía": "Citigroup Inc",
-        "Ratio": "3:1"
+        "name": "Citigroup Inc",
+        "ratio": "3:1"
     },
     "KOFM": {
-        "Nombre de la Compañía": "Coca-Cola Femsa, S.A.B. De C.V.",
-        "Ratio": "2:1"
+        "name": "Coca-Cola Femsa, S.A.B. De C.V.",
+        "ratio": "2:1"
     },
     "CDE": {
-        "Nombre de la Compañía": "Coeur Mining Inc.",
-        "Ratio": "1:1"
+        "name": "Coeur Mining Inc.",
+        "ratio": "1:1"
     },
     "COIN": {
-        "Nombre de la Compañía": "Coinbase Global Inc",
-        "Ratio": "27:1"
+        "name": "Coinbase Global Inc",
+        "ratio": "27:1"
     },
     "CL": {
-        "Nombre de la Compañía": "Colgate Palmolive Co",
-        "Ratio": "3:1"
+        "name": "Colgate Palmolive Co",
+        "ratio": "3:1"
     },
     "CBRD": {
-        "Nombre de la Compañía": "Companhia Brasileira De Dis NPV ADR",
-        "Ratio": "1:1"
+        "name": "Companhia Brasileira De Dis NPV ADR",
+        "ratio": "1:1"
     },
     "SBS": {
-        "Nombre de la Compañía": "Companhia de Saneamento Básico do Estado de São Paulo–Sabesp",
-        "Ratio": "1:2"
+        "name": "Companhia de Saneamento Básico do Estado de São Paulo–Sabesp",
+        "ratio": "1:2"
     },
     "ELP": {
-        "Nombre de la Compañía": "Companhia Paranaense de Energía - COPEL",
-        "Ratio": "1:3"
+        "name": "Companhia Paranaense de Energía - COPEL",
+        "ratio": "1:3"
     },
     "SID": {
-        "Nombre de la Compañía": "Companhia Siderúrgica Nacional",
-        "Ratio": "1:8"
+        "name": "Companhia Siderúrgica Nacional",
+        "ratio": "1:8"
     },
     "GLW": {
-        "Nombre de la Compañía": "Corning Inc.",
-        "Ratio": "4:1"
+        "name": "Corning Inc.",
+        "ratio": "4:1"
     },
     "CAAP": {
-        "Nombre de la Compañía": "Corporación America Airports S.A.",
-        "Ratio": "1:4"
+        "name": "Corporación America Airports S.A.",
+        "ratio": "1:4"
     },
     "COST": {
-        "Nombre de la Compañía": "Costco Wholesale Corp",
-        "Ratio": "48:1"
+        "name": "Costco Wholesale Corp",
+        "ratio": "48:1"
     },
     "CS": {
-        "Nombre de la Compañía": "Credit Suisse Group",
-        "Ratio": "1:1"
+        "name": "Credit Suisse Group",
+        "ratio": "1:1"
     },
     "CVS": {
-        "Nombre de la Compañía": "CVS Health",
-        "Ratio": "15:1"
+        "name": "CVS Health",
+        "ratio": "15:1"
     },
     "BSN": {
-        "Nombre de la Compañía": "Danone",
-        "Ratio": "20:1"
+        "name": "Danone",
+        "ratio": "20:1"
     },
     "DE": {
-        "Nombre de la Compañía": "Deere & Co.",
-        "Ratio": "40:1"
+        "name": "Deere & Co.",
+        "ratio": "40:1"
     },
     "DAL": {
-        "Nombre de la Compañía": "Delta Air Lines",
-        "Ratio": "8:1"
+        "name": "Delta Air Lines",
+        "ratio": "8:1"
     },
     "DESP": {
-        "Nombre de la Compañía": "Despegar.Com, Corp.",
-        "Ratio": "1:1"
+        "name": "Despegar.Com, Corp.",
+        "ratio": "1:1"
     },
     "DTEA": {
-        "Nombre de la Compañía": "Deutsche Telekom Ag",
-        "Ratio": "3:1"
+        "name": "Deutsche Telekom Ag",
+        "ratio": "3:1"
     },
     "DEO": {
-        "Nombre de la Compañía": "Diageo PLC",
-        "Ratio": "6:1"
+        "name": "Diageo PLC",
+        "ratio": "6:1"
     },
     "DOCU": {
-        "Nombre de la Compañía": "DocuSign Inc.",
-        "Ratio": "22:1"
+        "name": "DocuSign Inc.",
+        "ratio": "22:1"
     },
     "DOW": {
-        "Nombre de la Compañía": "DOW Inc",
-        "Ratio": "6:1"
+        "name": "DOW Inc",
+        "ratio": "6:1"
     },
     "DD": {
-        "Nombre de la Compañía": "Dupont de Nemours Inc.",
-        "Ratio": "5:1"
+        "name": "Dupont de Nemours Inc.",
+        "ratio": "5:1"
     },
     "EOAN": {
-        "Nombre de la Compañía": "E.On Se",
-        "Ratio": "6:1"
+        "name": "E.On Se",
+        "ratio": "6:1"
     },
     "EBAY": {
-        "Nombre de la Compañía": "Ebay Inc.",
-        "Ratio": "2:1"
+        "name": "Ebay Inc.",
+        "ratio": "2:1"
     },
     "EA": {
-        "Nombre de la Compañía": "Electronic Arts Inc",
-        "Ratio": "14:1"
+        "name": "Electronic Arts Inc",
+        "ratio": "14:1"
     },
     "LLY": {
-        "Nombre de la Compañía": "Eli Lilly and Company",
-        "Ratio": "56:1"
+        "name": "Eli Lilly and Company",
+        "ratio": "56:1"
     },
     "AKO.B": {
-        "Nombre de la Compañía": "Embotelladora Andina S.A.",
-        "Ratio": "1:1"
+        "name": "Embotelladora Andina S.A.",
+        "ratio": "1:1"
     },
     "ERJ": {
-        "Nombre de la Compañía": "Embraer-Empresa Brasileira de Aeronáutica S.A.",
-        "Ratio": "1:1"
+        "name": "Embraer-Empresa Brasileira de Aeronáutica S.A.",
+        "ratio": "1:1"
     },
     "XLE": {
-        "Nombre de la Compañía": "ENERGY SELECT SECTOR SPDR FUND",
-        "Ratio": "2:1"
+        "name": "ENERGY SELECT SECTOR SPDR FUND",
+        "ratio": "2:1"
     },
     "E": {
-        "Nombre de la Compañía": "Eni Spa",
-        "Ratio": "4:1"
+        "name": "Eni Spa",
+        "ratio": "4:1"
     },
     "EFX": {
-        "Nombre de la Compañía": "Equifax Inc.",
-        "Ratio": "16:1"
+        "name": "Equifax Inc.",
+        "ratio": "16:1"
     },
     "ETSY": {
-        "Nombre de la Compañía": "Etsy Inc.",
-        "Ratio": "16:1"
+        "name": "Etsy Inc.",
+        "ratio": "16:1"
     },
     "XOM": {
-        "Nombre de la Compañía": "Exxon Mobil Corporation",
-        "Ratio": "10:1"
+        "name": "Exxon Mobil Corporation",
+        "ratio": "10:1"
     },
     "FNMA": {
-        "Nombre de la Compañía": "Fed. Natl, Mortgage - Fannie Mae",
-        "Ratio": "1:1"
+        "name": "Fed. Natl, Mortgage - Fannie Mae",
+        "ratio": "1:1"
     },
     "FDX": {
-        "Nombre de la Compañía": "Fedex Corp",
-        "Ratio": "10:1"
+        "name": "Fedex Corp",
+        "ratio": "10:1"
     },
     "RACE": {
-        "Nombre de la Compañía": "Ferrari",
-        "Ratio": "83:1"
+        "name": "Ferrari",
+        "ratio": "83:1"
     },
     "XLF": {
-        "Nombre de la Compañía": "FINANCIAL SELECT SECTOR SPDR FUND",
-        "Ratio": "2:1"
+        "name": "FINANCIAL SELECT SECTOR SPDR FUND",
+        "ratio": "2:1"
     },
     "FSLR": {
-        "Nombre de la Compañía": "First Solar Inc.",
-        "Ratio": "18:1"
+        "name": "First Solar Inc.",
+        "ratio": "18:1"
     },
     "FMX": {
-        "Nombre de la Compañía": "Fomento Economico Mexicano - Femsa",
-        "Ratio": "6:1"
+        "name": "Fomento Economico Mexicano - Femsa",
+        "ratio": "6:1"
     },
     "F": {
-        "Nombre de la Compañía": "Ford Motor Company",
-        "Ratio": "1:1"
+        "name": "Ford Motor Company",
+        "ratio": "1:1"
     },
     "FMCC": {
-        "Nombre de la Compañía": "Freddie Mac (Federal Home Loan)",
-        "Ratio": "1:1"
+        "name": "Freddie Mac (Federal Home Loan)",
+        "ratio": "1:1"
     },
     "FCX": {
-        "Nombre de la Compañía": "Freeport Mcmoran Copper & Gold Inc.",
-        "Ratio": "3:1"
+        "name": "Freeport Mcmoran Copper & Gold Inc.",
+        "ratio": "3:1"
     },
     "GRMN": {
-        "Nombre de la Compañía": "Garmin Ltd.",
-        "Ratio": "3:1"
+        "name": "Garmin Ltd.",
+        "ratio": "3:1"
     },
     "GE": {
-        "Nombre de la Compañía": "General Electric Co.",
-        "Ratio": "8:1"
+        "name": "General Electric Co.",
+        "ratio": "8:1"
     },
     "GM": {
-        "Nombre de la Compañía": "General Motors Co",
-        "Ratio": "6:1"
+        "name": "General Motors Co",
+        "ratio": "6:1"
     },
     "GPRK": {
-        "Nombre de la Compañía": "Geopark Ltd.",
-        "Ratio": "1:1"
+        "name": "Geopark Ltd.",
+        "ratio": "1:1"
     },
     "GGB": {
-        "Nombre de la Compañía": "Gerdau S.A.",
-        "Ratio": "1:4"
+        "name": "Gerdau S.A.",
+        "ratio": "1:4"
     },
     "GILD": {
-        "Nombre de la Compañía": "Gilead Sciences, Inc.",
-        "Ratio": "4:1"
+        "name": "Gilead Sciences, Inc.",
+        "ratio": "4:1"
     },
     "GLOB": {
-        "Nombre de la Compañía": "Globant S.A.",
-        "Ratio": "18:1"
+        "name": "Globant S.A.",
+        "ratio": "18:1"
     },
     "GFI": {
-        "Nombre de la Compañía": "Gold Fields Ltd.",
-        "Ratio": "1:1"
+        "name": "Gold Fields Ltd.",
+        "ratio": "1:1"
     },
     "PAC": {
-        "Nombre de la Compañía": "Grupo Aeroportuario del Pacifico, S.A.B. de C.V.",
-        "Ratio": "16:1"
+        "name": "Grupo Aeroportuario del Pacifico, S.A.B. de C.V.",
+        "ratio": "16:1"
     },
     "ASR": {
-        "Nombre de la Compañía": "Grupo Aeroportuario Del Sureste , S.A.B. de C.V.",
-        "Ratio": "20:1"
+        "name": "Grupo Aeroportuario Del Sureste , S.A.B. de C.V.",
+        "ratio": "20:1"
     },
     "TV": {
-        "Nombre de la Compañía": "Grupo Televisa S.A.",
-        "Ratio": "3:1"
+        "name": "Grupo Televisa S.A.",
+        "ratio": "3:1"
     },
     "GSK": {
-        "Nombre de la Compañía": "GSK Plc.",
-        "Ratio": "4:1"
+        "name": "GSK Plc.",
+        "ratio": "4:1"
     },
     "HAL": {
-        "Nombre de la Compañía": "Halliburton Co.",
-        "Ratio": "2:1"
+        "name": "Halliburton Co.",
+        "ratio": "2:1"
     },
     "HAPV3": {
-        "Nombre de la Compañía": "Hapvida Participacoes E Investimentos S.A.",
-        "Ratio": "1:1"
+        "name": "Hapvida Participacoes E Investimentos S.A.",
+        "ratio": "1:1"
     },
     "HOG": {
-        "Nombre de la Compañía": "Harley-Davidson Inc.",
-        "Ratio": "3:1"
+        "name": "Harley-Davidson Inc.",
+        "ratio": "3:1"
     },
     "HMY": {
-        "Nombre de la Compañía": "Harmony Gold Mining Company Ltd.",
-        "Ratio": "1:1"
+        "name": "Harmony Gold Mining Company Ltd.",
+        "ratio": "1:1"
     },
     "HDB": {
-        "Nombre de la Compañía": "Hdfc Bank Limited.",
-        "Ratio": "2:1"
+        "name": "Hdfc Bank Limited.",
+        "ratio": "2:1"
     },
     "HL": {
-        "Nombre de la Compañía": "Hecla Mining Co .",
-        "Ratio": "1:1"
+        "name": "Hecla Mining Co .",
+        "ratio": "1:1"
     },
     "HHPD": {
-        "Nombre de la Compañía": "Hon Hai Precision Industry Co. Ltd.",
-        "Ratio": "2:1"
+        "name": "Hon Hai Precision Industry Co. Ltd.",
+        "ratio": "2:1"
     },
     "HMC": {
-        "Nombre de la Compañía": "Honda Motor Co. Ltd",
-        "Ratio": "1:1"
+        "name": "Honda Motor Co. Ltd",
+        "ratio": "1:1"
     },
     "HON": {
-        "Nombre de la Compañía": "Honeywell International Inc.",
-        "Ratio": "8:1"
+        "name": "Honeywell International Inc.",
+        "ratio": "8:1"
     },
     "HWM": {
-        "Nombre de la Compañía": "Howmet Aerospace Inc.",
-        "Ratio": "1:1"
+        "name": "Howmet Aerospace Inc.",
+        "ratio": "1:1"
     },
     "HPQ": {
-        "Nombre de la Compañía": "Hp Inc",
-        "Ratio": "1:1"
+        "name": "Hp Inc",
+        "ratio": "1:1"
     },
     "HSBC": {
-        "Nombre de la Compañía": "Hsbc Holdings Plc",
-        "Ratio": "2:1"
+        "name": "Hsbc Holdings Plc",
+        "ratio": "2:1"
     },
     "HNPIY": {
-        "Nombre de la Compañía": "Huaneng Power Intl",
-        "Ratio": "1:1"
+        "name": "Huaneng Power Intl",
+        "ratio": "1:1"
     },
     "HUT": {
-        "Nombre de la Compañía": "Hut 8 Mining Corp.",
-        "Ratio": "1:5"
+        "name": "Hut 8 Mining Corp.",
+        "ratio": "1:5"
     },
     "IBN": {
-        "Nombre de la Compañía": "Icici Bank Ltd.",
-        "Ratio": "1:1"
+        "name": "Icici Bank Ltd.",
+        "ratio": "1:1"
     },
     "INFY": {
-        "Nombre de la Compañía": "Infosys Limited",
-        "Ratio": "1:1"
+        "name": "Infosys Limited",
+        "ratio": "1:1"
     },
     "ING": {
-        "Nombre de la Compañía": "Ing Groep Nv",
-        "Ratio": "3:1"
+        "name": "Ing Groep Nv",
+        "ratio": "3:1"
     },
     "INTC": {
-        "Nombre de la Compañía": "Intel Corporation",
-        "Ratio": "5:1"
+        "name": "Intel Corporation",
+        "ratio": "5:1"
     },
     "IBM": {
-        "Nombre de la Compañía": "International Business Machines",
-        "Ratio": "15:1"
+        "name": "International Business Machines",
+        "ratio": "15:1"
     },
     "IFF": {
-        "Nombre de la Compañía": "International Flavors & Fragrances Inc.",
-        "Ratio": "12:1"
+        "name": "International Flavors & Fragrances Inc.",
+        "ratio": "12:1"
     },
     "IP": {
-        "Nombre de la Compañía": "International Paper Co.",
-        "Ratio": "4:1"
+        "name": "International Paper Co.",
+        "ratio": "4:1"
     },
     "QQQ": {
-        "Nombre de la Compañía": "INVESCO QQQ TRUST",
-        "Ratio": "20:1"
+        "name": "INVESCO QQQ TRUST",
+        "ratio": "20:1"
     },
     "EWZ": {
-        "Nombre de la Compañía": "ISHARES MSCI BRAZIL CAP",
-        "Ratio": "2:1"
+        "name": "ISHARES MSCI BRAZIL CAP",
+        "ratio": "2:1"
     },
     "EEM": {
-        "Nombre de la Compañía": "ISHARES MSCI EMERGING MARKET",
-        "Ratio": "5:01"
+        "name": "ISHARES MSCI EMERGING MARKET",
+        "ratio": "5:01"
     },
     "IWM": {
-        "Nombre de la Compañía": "ISHARES TRUST RUSSELL 2000",
-        "Ratio": "10:1"
+        "name": "ISHARES TRUST RUSSELL 2000",
+        "ratio": "10:1"
     },
     "ITUB": {
-        "Nombre de la Compañía": "Itaú Unibanco Holding S.A.",
-        "Ratio": "1:1"
+        "name": "Itaú Unibanco Holding S.A.",
+        "ratio": "1:1"
     },
     "JPM": {
-        "Nombre de la Compañía": "J.P. Morgan & Chase Co.",
-        "Ratio": "15:1"
+        "name": "J.P. Morgan & Chase Co.",
+        "ratio": "15:1"
     },
     "JD": {
-        "Nombre de la Compañía": "Jd.Com, Inc.",
-        "Ratio": "4:1"
+        "name": "Jd.Com, Inc.",
+        "ratio": "4:1"
     },
     "JNJ": {
-        "Nombre de la Compañía": "Johnson & Johnson",
-        "Ratio": "15:1"
+        "name": "Johnson & Johnson",
+        "ratio": "15:1"
     },
     "JCI": {
-        "Nombre de la Compañía": "Johnson Controls International",
-        "Ratio": "2:1"
+        "name": "Johnson Controls International",
+        "ratio": "2:1"
     },
     "YY": {
-        "Nombre de la Compañía": "JOYY Inc.",
-        "Ratio": "5:1"
+        "name": "JOYY Inc.",
+        "ratio": "5:1"
     },
     "KB": {
-        "Nombre de la Compañía": "Kb Financial Group Inc.",
-        "Ratio": "2:1"
+        "name": "Kb Financial Group Inc.",
+        "ratio": "2:1"
     },
     "KMB": {
-        "Nombre de la Compañía": "Kimberly-Clark Corp.",
-        "Ratio": "6:1"
+        "name": "Kimberly-Clark Corp.",
+        "ratio": "6:1"
     },
     "KGC": {
-        "Nombre de la Compañía": "Kinross Gold Corp",
-        "Ratio": "1:1"
+        "name": "Kinross Gold Corp",
+        "ratio": "1:1"
     },
     "PHG": {
-        "Nombre de la Compañía": "Koninklijke Philips N.V.",
-        "Ratio": "5:1"
+        "name": "Koninklijke Philips N.V.",
+        "ratio": "5:1"
     },
     "KEP": {
-        "Nombre de la Compañía": "Korea Electric Power Corp.",
-        "Ratio": "1:1"
+        "name": "Korea Electric Power Corp.",
+        "ratio": "1:1"
     },
     "LRCX": {
-        "Nombre de la Compañía": "Lam Research Corp",
-        "Ratio": "56:1"
+        "name": "Lam Research Corp",
+        "ratio": "56:1"
     },
     "LVS": {
-        "Nombre de la Compañía": "Las Vegas Sands Corp",
-        "Ratio": "2:1"
+        "name": "Las Vegas Sands Corp",
+        "ratio": "2:1"
     },
     "LAC": {
-        "Nombre de la Compañía": "Lithium Americas Corp",
-        "Ratio": "1:1"
+        "name": "Lithium Americas Corp",
+        "ratio": "1:1"
     },
     "LYG": {
-        "Nombre de la Compañía": "Lloyds Banking Group Plc",
-        "Ratio": "2:1"
+        "name": "Lloyds Banking Group Plc",
+        "ratio": "2:1"
     },
     "ERIC": {
-        "Nombre de la Compañía": "Lm Ericsson Telephone Co.",
-        "Ratio": "2:1"
+        "name": "Lm Ericsson Telephone Co.",
+        "ratio": "2:1"
     },
     "RENT3": {
-        "Nombre de la Compañía": "Localiza Rent A Car S.A.",
-        "Ratio": "2:1"
+        "name": "Localiza Rent A Car S.A.",
+        "ratio": "2:1"
     },
     "LMT": {
-        "Nombre de la Compañía": "Lockheed Martin Corporation",
-        "Ratio": "20:1"
+        "name": "Lockheed Martin Corporation",
+        "ratio": "20:1"
     },
     "LREN3": {
-        "Nombre de la Compañía": "Lojas Renner S.A.",
-        "Ratio": "1:1"
+        "name": "Lojas Renner S.A.",
+        "ratio": "1:1"
     },
     "MGLU3": {
-        "Nombre de la Compañía": "Magazine Luiza S.A.",
-        "Ratio": "1:1"
+        "name": "Magazine Luiza S.A.",
+        "ratio": "1:1"
     },
     "MMC": {
-        "Nombre de la Compañía": "Marsh & Mclennan Companies Inc.",
-        "Ratio": "16:1"
+        "name": "Marsh & Mclennan Companies Inc.",
+        "ratio": "16:1"
     },
     "MRVL": {
-        "Nombre de la Compañía": "Marvell Technology Inc",
-        "Ratio": "14:1"
+        "name": "Marvell Technology Inc",
+        "ratio": "14:1"
     },
     "MA": {
-        "Nombre de la Compañía": "Mastercard Inc.",
-        "Ratio": "33:1"
+        "name": "Mastercard Inc.",
+        "ratio": "33:1"
     },
     "MCD": {
-        "Nombre de la Compañía": "Mcdonald'S Corp.",
-        "Ratio": "24:1"
+        "name": "Mcdonald'S Corp.",
+        "ratio": "24:1"
     },
     "MUX": {
-        "Nombre de la Compañía": "McEwen Mining Inc",
-        "Ratio": "2:1"
+        "name": "McEwen Mining Inc",
+        "ratio": "2:1"
     },
     "MDT": {
-        "Nombre de la Compañía": "Medtronic Public Limited Company",
-        "Ratio": "4:1"
+        "name": "Medtronic Public Limited Company",
+        "ratio": "4:1"
     },
     "MELI": {
-        "Nombre de la Compañía": "Mercadolibre Inc.",
-        "Ratio": "120:1"
+        "name": "Mercadolibre Inc.",
+        "ratio": "120:1"
     },
     "MBG": {
-        "Nombre de la Compañía": "Mercedes-Benz Group AG",
-        "Ratio": "4:1"
+        "name": "Mercedes-Benz Group AG",
+        "ratio": "4:1"
     },
     "MRK": {
-        "Nombre de la Compañía": "Merck & Co. Inc.",
-        "Ratio": "5:1"
+        "name": "Merck & Co. Inc.",
+        "ratio": "5:1"
     },
     "META": {
-        "Nombre de la Compañía": "Meta Platforms Inc",
-        "Ratio": "24:1"
+        "name": "Meta Platforms Inc",
+        "ratio": "24:1"
     },
     "MU": {
-        "Nombre de la Compañía": "Micron Technology Inc",
-        "Ratio": "5:1"
+        "name": "Micron Technology Inc",
+        "ratio": "5:1"
     },
     "MSFT": {
-        "Nombre de la Compañía": "Microsoft Corp.",
-        "Ratio": "30:1"
+        "name": "Microsoft Corp.",
+        "ratio": "30:1"
     },
     "MSTR": {
-        "Nombre de la Compañía": "Microstrategy Inc Cl A New",
-        "Ratio": "20:1"
+        "name": "Microstrategy Inc Cl A New",
+        "ratio": "20:1"
     },
     "MUFG": {
-        "Nombre de la Compañía": "Mitsubishi Ufj Financial Group",
-        "Ratio": "1:1"
+        "name": "Mitsubishi Ufj Financial Group",
+        "ratio": "1:1"
     },
     "MFG": {
-        "Nombre de la Compañía": "Mizuho Financial Group",
-        "Ratio": "1:1"
+        "name": "Mizuho Financial Group",
+        "ratio": "1:1"
     },
     "MBT": {
-        "Nombre de la Compañía": "Mobile Telesystems",
-        "Ratio": "2:1"
+        "name": "Mobile Telesystems",
+        "ratio": "2:1"
     },
     "MRNA": {
-        "Nombre de la Compañía": "Moderna Inc",
-        "Ratio": "19:1"
+        "name": "Moderna Inc",
+        "ratio": "19:1"
     },
     "MDLZ": {
-        "Nombre de la Compañía": "Mondelez",
-        "Ratio": "15:1"
+        "name": "Mondelez",
+        "ratio": "15:1"
     },
     "MSI": {
-        "Nombre de la Compañía": "Motorola Solutions, Inc.",
-        "Ratio": "20:1"
+        "name": "Motorola Solutions, Inc.",
+        "ratio": "20:1"
     },
     "NGG": {
-        "Nombre de la Compañía": "National Grid Plc",
-        "Ratio": "2:1"
+        "name": "National Grid Plc",
+        "ratio": "2:1"
     },
     "NTCO": {
-        "Nombre de la Compañía": "Natura & Co Holding S.A.",
-        "Ratio": "1:1"
+        "name": "Natura & Co Holding S.A.",
+        "ratio": "1:1"
     },
     "NEC1": {
-        "Nombre de la Compañía": "Nec Corporation",
-        "Ratio": "1:3"
+        "name": "Nec Corporation",
+        "ratio": "1:3"
     },
     "NTES": {
-        "Nombre de la Compañía": "Netease, Inc",
-        "Ratio": "14:1"
+        "name": "Netease, Inc",
+        "ratio": "14:1"
     },
     "NFLX": {
-        "Nombre de la Compañía": "Netflix, Inc.",
-        "Ratio": "48:1"
+        "name": "Netflix, Inc.",
+        "ratio": "48:1"
     },
     "NEM": {
-        "Nombre de la Compañía": "Newmont Corporation",
-        "Ratio": "3:1"
+        "name": "Newmont Corporation",
+        "ratio": "3:1"
     },
     "NKE": {
-        "Nombre de la Compañía": "Nike Inc.",
-        "Ratio": "12:1"
+        "name": "Nike Inc.",
+        "ratio": "12:1"
     },
     "NIO": {
-        "Nombre de la Compañía": "NIO Inc.",
-        "Ratio": "4:1"
+        "name": "NIO Inc.",
+        "ratio": "4:1"
     },
     "NSAN": {
-        "Nombre de la Compañía": "Nissan Motor Co., Ltd",
-        "Ratio": "1:1"
+        "name": "Nissan Motor Co., Ltd",
+        "ratio": "1:1"
     },
     "NOKA": {
-        "Nombre de la Compañía": "Nokia Corporation",
-        "Ratio": "1:1"
+        "name": "Nokia Corporation",
+        "ratio": "1:1"
     },
     "NMR": {
-        "Nombre de la Compañía": "Nomura Holdings, Inc",
-        "Ratio": "1:1"
+        "name": "Nomura Holdings, Inc",
+        "ratio": "1:1"
     },
     "NG": {
-        "Nombre de la Compañía": "Novagold Resources INC.",
-        "Ratio": "1:4"
+        "name": "Novagold Resources INC.",
+        "ratio": "1:4"
     },
     "NVS": {
-        "Nombre de la Compañía": "Novartis Ag",
-        "Ratio": "4:1"
+        "name": "Novartis Ag",
+        "ratio": "4:1"
     },
     "NLM": {
-        "Nombre de la Compañía": "Novolipetsk Steel PJSC",
-        "Ratio": "2:1"
+        "name": "Novolipetsk Steel PJSC",
+        "ratio": "2:1"
     },
     "UN": {
-        "Nombre de la Compañía": "NU Holdings Ltd/Cayman Islands",
-        "Ratio": "2:1"
+        "name": "NU Holdings Ltd/Cayman Islands",
+        "ratio": "2:1"
     },
     "NUE": {
-        "Nombre de la Compañía": "Nucor Corp",
-        "Ratio": "16:1"
+        "name": "Nucor Corp",
+        "ratio": "16:1"
     },
     "NVDA": {
-        "Nombre de la Compañía": "Nvidia Corporation",
-        "Ratio": "24:1"
+        "name": "Nvidia Corporation",
+        "ratio": "24:1"
     },
     "OXY": {
-        "Nombre de la Compañía": "Occidental Petroleum Corp.",
-        "Ratio": "5:1"
+        "name": "Occidental Petroleum Corp.",
+        "ratio": "5:1"
     },
     "ORCL": {
-        "Nombre de la Compañía": "Oracle Corporation",
-        "Ratio": "3:1"
+        "name": "Oracle Corporation",
+        "ratio": "3:1"
     },
     "ORAN": {
-        "Nombre de la Compañía": "Orange S.A.",
-        "Ratio": "1:1"
+        "name": "Orange S.A.",
+        "ratio": "1:1"
     },
     "PCAR": {
-        "Nombre de la Compañía": "Paccar Inc.",
-        "Ratio": "3:1"
+        "name": "Paccar Inc.",
+        "ratio": "3:1"
     },
     "PAGS": {
-        "Nombre de la Compañía": "Pagseguro Digital Ltd",
-        "Ratio": "3:1"
+        "name": "Pagseguro Digital Ltd",
+        "ratio": "3:1"
     },
     "PLTR": {
-        "Nombre de la Compañía": "Palantir Technologies Inc",
-        "Ratio": "3:1"
+        "name": "Palantir Technologies Inc",
+        "ratio": "3:1"
     },
     "PANW": {
-        "Nombre de la Compañía": "Palo Alto Networks Inc",
-        "Ratio": "50:1"
+        "name": "Palo Alto Networks Inc",
+        "ratio": "50:1"
     },
     "PAAS": {
-        "Nombre de la Compañía": "Pan American Silver Corp.",
-        "Ratio": "3:1"
+        "name": "Pan American Silver Corp.",
+        "ratio": "3:1"
     },
     "PCRF": {
-        "Nombre de la Compañía": "Panasonic Corporation",
-        "Ratio": "2:1"
+        "name": "Panasonic Corporation",
+        "ratio": "2:1"
     },
     "PYPL": {
-        "Nombre de la Compañía": "Paypal Holdings, Inc.",
-        "Ratio": "8:1"
+        "name": "Paypal Holdings, Inc.",
+        "ratio": "8:1"
     },
     "PSO": {
-        "Nombre de la Compañía": "Pearson Plc",
-        "Ratio": "1:1"
+        "name": "Pearson Plc",
+        "ratio": "1:1"
     },
     "PEP": {
-        "Nombre de la Compañía": "Pepsico Inc",
-        "Ratio": "18:1"
+        "name": "Pepsico Inc",
+        "ratio": "18:1"
     },
     "PBR": {
-        "Nombre de la Compañía": "Petrobras (ADR)",
-        "Ratio": "1:1"
+        "name": "Petrobras (ADR)",
+        "ratio": "1:1"
     },
     "PTR": {
-        "Nombre de la Compañía": "Petrochina Co Ltd",
-        "Ratio": "4:1"
+        "name": "Petrochina Co Ltd",
+        "ratio": "4:1"
     },
     "PRIO3": {
-        "Nombre de la Compañía": "Petro Rio S.A.",
-        "Ratio": "2:1"
+        "name": "Petro Rio S.A.",
+        "ratio": "2:1"
     },
     "PFE": {
-        "Nombre de la Compañía": "Pfizer Inc.",
-        "Ratio": "4:1"
+        "name": "Pfizer Inc.",
+        "ratio": "4:1"
     },
     "PM": {
-        "Nombre de la Compañía": "Philip Morris International",
-        "Ratio": "18:1"
+        "name": "Philip Morris International",
+        "ratio": "18:1"
     },
     "PSX": {
-        "Nombre de la Compañía": "Phillips 66",
-        "Ratio": "6:1"
+        "name": "Phillips 66",
+        "ratio": "6:1"
     },
     "PINS": {
-        "Nombre de la Compañía": "Pinterest",
-        "Ratio": "7:1"
+        "name": "Pinterest",
+        "ratio": "7:1"
     },
     "PBI": {
-        "Nombre de la Compañía": "Pitney Bowes Inc",
-        "Ratio": "1:1"
+        "name": "Pitney Bowes Inc",
+        "ratio": "1:1"
     },
     "OGZD": {
-        "Nombre de la Compañía": "Pjsc Gazprom",
-        "Ratio": "2:1"
+        "name": "Pjsc Gazprom",
+        "ratio": "2:1"
     },
     "LKOD": {
-        "Nombre de la Compañía": "Pjsc Lukoil",
-        "Ratio": "4:1"
+        "name": "Pjsc Lukoil",
+        "ratio": "4:1"
     },
     "ATAD": {
-        "Nombre de la Compañía": "Pjsc Tatneft",
-        "Ratio": "4:1"
+        "name": "Pjsc Tatneft",
+        "ratio": "4:1"
     },
     "PKS": {
-        "Nombre de la Compañía": "Posco Holdings Inc.",
-        "Ratio": "3:1"
+        "name": "Posco Holdings Inc.",
+        "ratio": "3:1"
     },
     "PG": {
-        "Nombre de la Compañía": "Procter & Gamble",
-        "Ratio": "15:1"
+        "name": "Procter & Gamble",
+        "ratio": "15:1"
     },
     "QCOM": {
-        "Nombre de la Compañía": "Qualcomm Inc.",
-        "Ratio": "11:1"
+        "name": "Qualcomm Inc.",
+        "ratio": "11:1"
     },
     "RTX": {
-        "Nombre de la Compañía": "Raytheon Technologies Corp",
-        "Ratio": "5:1"
+        "name": "Raytheon Technologies Corp",
+        "ratio": "5:1"
     },
     "RIO": {
-        "Nombre de la Compañía": "Rio Tinto Plc",
-        "Ratio": "8:1"
+        "name": "Rio Tinto Plc",
+        "ratio": "8:1"
     },
     "RIOT": {
-        "Nombre de la Compañía": "Riot Platforms",
-        "Ratio": "3:1"
+        "name": "Riot Platforms",
+        "ratio": "3:1"
     },
     "RBLX": {
-        "Nombre de la Compañía": "Roblox Corp.",
-        "Ratio": "2:1"
+        "name": "Roblox Corp.",
+        "ratio": "2:1"
     },
     "ROKU": {
-        "Nombre de la Compañía": "Roku",
-        "Ratio": "13:1"
+        "name": "Roku",
+        "ratio": "13:1"
     },
     "ROST": {
-        "Nombre de la Compañía": "Ross Stores, Inc.",
-        "Ratio": "4:1"
+        "name": "Ross Stores, Inc.",
+        "ratio": "4:1"
     },
     "SHEL": {
-        "Nombre de la Compañía": "Royal Dutch Shell Plc",
-        "Ratio": "2:1"
+        "name": "Royal Dutch Shell Plc",
+        "ratio": "2:1"
     },
     "SPGI": {
-        "Nombre de la Compañía": "S&P Global Inc",
-        "Ratio": "45:1"
+        "name": "S&P Global Inc",
+        "ratio": "45:1"
     },
     "CRM": {
-        "Nombre de la Compañía": "Salesforce Inc.",
-        "Ratio": "18:1"
+        "name": "Salesforce Inc.",
+        "ratio": "18:1"
     },
     "SMSN": {
-        "Nombre de la Compañía": "Samsung Electronics Co. Ltd.",
-        "Ratio": "14:1"
+        "name": "Samsung Electronics Co. Ltd.",
+        "ratio": "14:1"
     },
     "SAP": {
-        "Nombre de la Compañía": "Sap Se",
-        "Ratio": "6:1"
+        "name": "Sap Se",
+        "ratio": "6:1"
     },
     "SATL": {
-        "Nombre de la Compañía": "Satellogic Inc.",
-        "Ratio": "1:1"
+        "name": "Satellogic Inc.",
+        "ratio": "1:1"
     },
     "SLB": {
-        "Nombre de la Compañía": "Schlumberger Ltd",
-        "Ratio": "3:1"
+        "name": "Schlumberger Ltd",
+        "ratio": "3:1"
     },
     "SE": {
-        "Nombre de la Compañía": "Sea Ltd.",
-        "Ratio": "32:1"
+        "name": "Sea Ltd.",
+        "ratio": "32:1"
     },
     "SHPW": {
-        "Nombre de la Compañía": "Shapeways Holdings Inc",
-        "Ratio": "1:2"
+        "name": "Shapeways Holdings Inc",
+        "ratio": "1:2"
     },
     "SHOP": {
-        "Nombre de la Compañía": "Shopify Inc.",
-        "Ratio": "107:1"
+        "name": "Shopify Inc.",
+        "ratio": "107:1"
     },
     "SIEGY": {
-        "Nombre de la Compañía": "Siemens Ag Adr",
-        "Ratio": "3:1"
+        "name": "Siemens Ag Adr",
+        "ratio": "3:1"
     },
     "SI": {
-        "Nombre de la Compañía": "Silvergate Bancorp",
-        "Ratio": "10:1"
+        "name": "Silvergate Bancorp",
+        "ratio": "10:1"
     },
     "SWKS": {
-        "Nombre de la Compañía": "Skyworks Solutions",
-        "Ratio": "21:1"
+        "name": "Skyworks Solutions",
+        "ratio": "21:1"
     },
     "SNAP": {
-        "Nombre de la Compañía": "Snap Inc.",
-        "Ratio": "1:1"
+        "name": "Snap Inc.",
+        "ratio": "1:1"
     },
     "SNA": {
-        "Nombre de la Compañía": "Snap-On Inc",
-        "Ratio": "6:1"
+        "name": "Snap-On Inc",
+        "ratio": "6:1"
     },
     "SNOW": {
-        "Nombre de la Compañía": "Snowflake Inc.",
-        "Ratio": "30:1"
+        "name": "Snowflake Inc.",
+        "ratio": "30:1"
     },
     "SONY": {
-        "Nombre de la Compañía": "Sony Group Corporation",
-        "Ratio": "8:1"
+        "name": "Sony Group Corporation",
+        "ratio": "8:1"
     },
     "SCCO": {
-        "Nombre de la Compañía": "Southern Copper Corp",
-        "Ratio": "2:1"
+        "name": "Southern Copper Corp",
+        "ratio": "2:1"
     },
     "DIA": {
-        "Nombre de la Compañía": "SPDR DOW JONES INDUSTRIAL",
-        "Ratio": "20:1"
+        "name": "SPDR DOW JONES INDUSTRIAL",
+        "ratio": "20:1"
     },
     "SPY": {
-        "Nombre de la Compañía": "SPDR S&P 500",
-        "Ratio": "20:1"
+        "name": "SPDR S&P 500",
+        "ratio": "20:1"
     },
     "SPOT": {
-        "Nombre de la Compañía": "Spotify Technology S.A.",
-        "Ratio": "28:1"
+        "name": "Spotify Technology S.A.",
+        "ratio": "28:1"
     },
     "SQ": {
-        "Nombre de la Compañía": "Square Inc.",
-        "Ratio": "20:1"
+        "name": "Square Inc.",
+        "ratio": "20:1"
     },
     "SBUX": {
-        "Nombre de la Compañía": "Starbucks Corporation",
-        "Ratio": "12:1"
+        "name": "Starbucks Corporation",
+        "ratio": "12:1"
     },
     "STLA": {
-        "Nombre de la Compañía": "Stellantis",
-        "Ratio": "5:1"
+        "name": "Stellantis",
+        "ratio": "5:1"
     },
     "STNE": {
-        "Nombre de la Compañía": "StoneCo Ltd",
-        "Ratio": "3:1"
+        "name": "StoneCo Ltd",
+        "ratio": "3:1"
     },
     "SDA": {
-        "Nombre de la Compañía": "SunCar Technology Group Inc",
-        "Ratio": "2:1"
+        "name": "SunCar Technology Group Inc",
+        "ratio": "2:1"
     },
     "SUZ": {
-        "Nombre de la Compañía": "Suzano Papel E Celulose S.A.",
-        "Ratio": "1:1"
+        "name": "Suzano Papel E Celulose S.A.",
+        "ratio": "1:1"
     },
     "SYY": {
-        "Nombre de la Compañía": "Sysco Corp.",
-        "Ratio": "8:1"
+        "name": "Sysco Corp.",
+        "ratio": "8:1"
     },
     "TSM": {
-        "Nombre de la Compañía": "Taiwan Semiconductor Manufacturing",
-        "Ratio": "9:1"
+        "name": "Taiwan Semiconductor Manufacturing",
+        "ratio": "9:1"
     },
     "TGT": {
-        "Nombre de la Compañía": "Target Corporation",
-        "Ratio": "24:1"
+        "name": "Target Corporation",
+        "ratio": "24:1"
     },
     "TTM": {
-        "Nombre de la Compañía": "Tata Motors Ltd",
-        "Ratio": "1:1"
+        "name": "Tata Motors Ltd",
+        "ratio": "1:1"
     },
     "RCTB4": {
-        "Nombre de la Compañía": "Telebras PN",
-        "Ratio": "1:1000"
+        "name": "Telebras PN",
+        "ratio": "1:1000"
     },
     "TIIAY": {
-        "Nombre de la Compañía": "Telecom Italia S.P.A. Ordinary Shares",
-        "Ratio": "1:1"
+        "name": "Telecom Italia S.P.A. Ordinary Shares",
+        "ratio": "1:1"
     },
     "VIV": {
-        "Nombre de la Compañía": "Telefônica Brasil S.A.",
-        "Ratio": "1:1"
+        "name": "Telefônica Brasil S.A.",
+        "ratio": "1:1"
     },
     "TEFO": {
-        "Nombre de la Compañía": "Telefonica S.A.",
-        "Ratio": "8:1"
+        "name": "Telefonica S.A.",
+        "ratio": "8:1"
     },
     "TEN": {
-        "Nombre de la Compañía": "Tenaris",
-        "Ratio": "1:1"
+        "name": "Tenaris",
+        "ratio": "1:1"
     },
     "TXR": {
-        "Nombre de la Compañía": "Ternium S.A.",
-        "Ratio": "4:1"
+        "name": "Ternium S.A.",
+        "ratio": "4:1"
     },
     "TSLA": {
-        "Nombre de la Compañía": "Tesla, Inc.",
-        "Ratio": "15:1"
+        "name": "Tesla, Inc.",
+        "ratio": "15:1"
     },
     "TXN": {
-        "Nombre de la Compañía": "Texas Instruments Inc",
-        "Ratio": "5:1"
+        "name": "Texas Instruments Inc",
+        "ratio": "5:1"
     },
     "BK": {
-        "Nombre de la Compañía": "The Bank Of New York Mellon Corp.",
-        "Ratio": "2:1"
+        "name": "The Bank Of New York Mellon Corp.",
+        "ratio": "2:1"
     },
     "BA": {
-        "Nombre de la Compañía": "The Boeing Company",
-        "Ratio": "24:1"
+        "name": "The Boeing Company",
+        "ratio": "24:1"
     },
     "KO": {
-        "Nombre de la Compañía": "The Coca Cola Company",
-        "Ratio": "5:1"
+        "name": "The Coca Cola Company",
+        "ratio": "5:1"
     },
     "GS": {
-        "Nombre de la Compañía": "The Goldman Sachs Group, Inc",
-        "Ratio": "13:1"
+        "name": "The Goldman Sachs Group, Inc",
+        "ratio": "13:1"
     },
     "HSY": {
-        "Nombre de la Compañía": "The Hershey Company",
-        "Ratio": "21:1"
+        "name": "The Hershey Company",
+        "ratio": "21:1"
     },
     "HD": {
-        "Nombre de la Compañía": "The Home Depot Inc.",
-        "Ratio": "32:1"
+        "name": "The Home Depot Inc.",
+        "ratio": "32:1"
     },
     "MOS": {
-        "Nombre de la Compañía": "The Mosaic Co",
-        "Ratio": "5:1"
+        "name": "The Mosaic Co",
+        "ratio": "5:1"
     },
     "TRVV": {
-        "Nombre de la Compañía": "The Travelers Cos. Inc.",
-        "Ratio": "6:1"
+        "name": "The Travelers Cos. Inc.",
+        "ratio": "6:1"
     },
     "DISN": {
-        "Nombre de la Compañía": "The Walt Disney Co.",
-        "Ratio": "12:1"
+        "name": "The Walt Disney Co.",
+        "ratio": "12:1"
     },
     "TMO": {
-        "Nombre de la Compañía": "Thermo Fisher Scientific Inc.",
-        "Ratio": "22:1"
+        "name": "Thermo Fisher Scientific Inc.",
+        "ratio": "22:1"
     },
     "TIMB": {
-        "Nombre de la Compañía": "Tim Participações S.A.",
-        "Ratio": "1:1"
+        "name": "Tim Participações S.A.",
+        "ratio": "1:1"
     },
     "TMUS": {
-        "Nombre de la Compañía": "T-mobile",
-        "Ratio": "33:1"
+        "name": "T-mobile",
+        "ratio": "33:1"
     },
     "TTE": {
-        "Nombre de la Compañía": "TotalEnergies SE",
-        "Ratio": "3:1"
+        "name": "TotalEnergies SE",
+        "ratio": "3:1"
     },
     "TM": {
-        "Nombre de la Compañía": "Toyota Motor Corporation",
-        "Ratio": "15:1"
+        "name": "Toyota Motor Corporation",
+        "ratio": "15:1"
     },
     "TCOM": {
-        "Nombre de la Compañía": "TRIP.COM Group Ltd.",
-        "Ratio": "2:1"
+        "name": "TRIP.COM Group Ltd.",
+        "ratio": "2:1"
     },
     "TRIP": {
-        "Nombre de la Compañía": "Tripadvisor, Inc.",
-        "Ratio": "2:1"
+        "name": "Tripadvisor, Inc.",
+        "ratio": "2:1"
     },
     "TWLO": {
-        "Nombre de la Compañía": "Twilio Inc",
-        "Ratio": "36:1"
+        "name": "Twilio Inc",
+        "ratio": "36:1"
     },
     "TWTR": {
-        "Nombre de la Compañía": "Twitter, Inc.",
-        "Ratio": "2:1"
+        "name": "Twitter, Inc.",
+        "ratio": "2:1"
     },
     "USB": {
-        "Nombre de la Compañía": "U.S. Bancorp",
-        "Ratio": "5:1"
+        "name": "U.S. Bancorp",
+        "ratio": "5:1"
     },
     "UBER": {
-        "Nombre de la Compañía": "Uber Technologies Inc.",
-        "Ratio": "2:1"
+        "name": "Uber Technologies Inc.",
+        "ratio": "2:1"
     },
     "UGP": {
-        "Nombre de la Compañía": "Ultrapar Participações S.A.",
-        "Ratio": "1:1"
+        "name": "Ultrapar Participações S.A.",
+        "ratio": "1:1"
     },
     "UL": {
-        "Nombre de la Compañía": "Unilever PLC - Sponsored",
-        "Ratio": "3:1"
+        "name": "Unilever PLC - Sponsored",
+        "ratio": "3:1"
     },
     "UNP": {
-        "Nombre de la Compañía": "Union Pacific Corp.",
-        "Ratio": "20:1"
+        "name": "Union Pacific Corp.",
+        "ratio": "20:1"
     },
     "UAL": {
-        "Nombre de la Compañía": "United Airlines Holdings Inc.",
-        "Ratio": "5:1"
+        "name": "United Airlines Holdings Inc.",
+        "ratio": "5:1"
     },
     "X": {
-        "Nombre de la Compañía": "United States Steel Corp.",
-        "Ratio": "3:1"
+        "name": "United States Steel Corp.",
+        "ratio": "3:1"
     },
     "UNH": {
-        "Nombre de la Compañía": "UnitedHealth Group Inc.",
-        "Ratio": "33:1"
+        "name": "UnitedHealth Group Inc.",
+        "ratio": "33:1"
     },
     "UPST": {
-        "Nombre de la Compañía": "Upstart Hldgs Inc",
-        "Ratio": "5:1"
+        "name": "Upstart Hldgs Inc",
+        "ratio": "5:1"
     },
     "URBN": {
-        "Nombre de la Compañía": "Urban Outfitters INC.",
-        "Ratio": "2:1"
+        "name": "Urban Outfitters INC.",
+        "ratio": "2:1"
     },
     "VALE": {
-        "Nombre de la Compañía": "Vale S.A.",
-        "Ratio": "2:1"
+        "name": "Vale S.A.",
+        "ratio": "2:1"
     },
     "VRSN": {
-        "Nombre de la Compañía": "Verisign, Inc.",
-        "Ratio": "6:1"
+        "name": "Verisign, Inc.",
+        "ratio": "6:1"
     },
     "VZ": {
-        "Nombre de la Compañía": "Verizon Communications Inc.",
-        "Ratio": "4:1"
+        "name": "Verizon Communications Inc.",
+        "ratio": "4:1"
     },
     "SPCE": {
-        "Nombre de la Compañía": "Virgin Galactic",
-        "Ratio": "1:2"
+        "name": "Virgin Galactic",
+        "ratio": "1:2"
     },
     "V": {
-        "Nombre de la Compañía": "Visa Inc",
-        "Ratio": "18:1"
+        "name": "Visa Inc",
+        "ratio": "18:1"
     },
     "VIST": {
-        "Nombre de la Compañía": "Vista Energy S.A.B. de C.V.",
-        "Ratio": "3:1"
+        "name": "Vista Energy S.A.B. de C.V.",
+        "ratio": "3:1"
     },
     "VOD": {
-        "Nombre de la Compañía": "Vodafone Group Plc",
-        "Ratio": "1:1"
+        "name": "Vodafone Group Plc",
+        "ratio": "1:1"
     },
     "WBA": {
-        "Nombre de la Compañía": "Walgreens Boots Alliance Inc.",
-        "Ratio": "3:1"
+        "name": "Walgreens Boots Alliance Inc.",
+        "ratio": "3:1"
     },
     "WMT": {
-        "Nombre de la Compañía": "Walmart Inc.",
-        "Ratio": "18:1"
+        "name": "Walmart Inc.",
+        "ratio": "18:1"
     },
     "WBO": {
-        "Nombre de la Compañía": "Weibo Corporation",
-        "Ratio": "6:1"
+        "name": "Weibo Corporation",
+        "ratio": "6:1"
     },
     "WFC": {
-        "Nombre de la Compañía": "Wells Fargo & Co.",
-        "Ratio": "5:1"
+        "name": "Wells Fargo & Co.",
+        "ratio": "5:1"
     },
     "XROX": {
-        "Nombre de la Compañía": "Xerox Holding Corporation",
-        "Ratio": "1:1"
+        "name": "Xerox Holding Corporation",
+        "ratio": "1:1"
     },
     "XP": {
-        "Nombre de la Compañía": "XP Inc",
-        "Ratio": "4:1"
+        "name": "XP Inc",
+        "ratio": "4:1"
     },
     "AUY": {
-        "Nombre de la Compañía": "Yamana Gold Inc.",
-        "Ratio": "1:1"
+        "name": "Yamana Gold Inc.",
+        "ratio": "1:1"
     },
     "YZCA": {
-        "Nombre de la Compañía": "Yanzhou Coal Mining Co. Ltd.",
-        "Ratio": "2:1"
+        "name": "Yanzhou Coal Mining Co. Ltd.",
+        "ratio": "2:1"
     },
     "YELP": {
-        "Nombre de la Compañía": "Yelp Inc.",
-        "Ratio": "2:1"
+        "name": "Yelp Inc.",
+        "ratio": "2:1"
     },
     "ZM": {
-        "Nombre de la Compañía": "Zoom Video Communications Inc.",
-        "Ratio": "47:1"
+        "name": "Zoom Video Communications Inc.",
+        "ratio": "47:1"
     }
 }
